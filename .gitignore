@@ -1,0 +1,7 @@
+*
+
+!.gitignore
+!multiAgents.py
+!pacman.py
+!game.py
+!util.py
